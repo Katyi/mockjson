@@ -12,6 +12,6 @@
         {"albumId": 1, "id": 3, "title": "Alice3", "url": "https://user-images.githubusercontent.com/26092469/177183279-f3c38bb2-35b2-4fab-822f-6badb9d94a6c.jpg"},
         {"albumId": 1, "id": 4, "title": "Alice4", "url": "https://user-images.githubusercontent.com/26092469/177183282-cad22420-f192-4805-8819-94d23e70c356.jpg"},
         {"albumId": 2, "id": 5, "title": "Animal1", "url": "https://user-images.githubusercontent.com/26092469/177184631-f5f093c9-71ec-4873-b28f-5ab11f7c1ee2.jpg"},
-        {"albumId": 2, "id": 6, "title": "Animal24", "url": "C:\opt\alex\my_postcards_project\src\static\Animal1.jpg"}
+        {"albumId": 2, "id": 6, "title": "Animal2", "url": "..\src\static\Animal1.jpg"}
     ]
 }
