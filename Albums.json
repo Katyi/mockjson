@@ -1,0 +1,26 @@
+[{
+    "id": 1,
+    "title": "Alice in Wonderland",
+    "description": "Postcards on the theme Alice in Wonderland"
+  },
+  {
+    "id": 2,
+    "title": "Animals",
+    "description": "Postcards on the theme Animals"
+  },
+  {
+    "id": 3,
+    "title": "Cities",
+    "description": "Postcards on the theme Cities"
+  },
+  {
+    "id": 4,
+    "title": "Harry Potter",
+    "description": "Postcards on the theme Harry Potter"
+  },
+  {
+    "id": 5,
+    "title": "Lighthouses",
+    "description": "Postcards on the theme Lighthouses"
+  }
+  ]
