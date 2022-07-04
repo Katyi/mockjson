@@ -7,7 +7,7 @@
         {"id": 5, "title": "Lighthouses", "description": "Postcards on the theme Lighthouses"}
     ],
     "photos": [
-        {"albumId": 1, "id": 1, "title": "Alice1", "url": "https://via.placeholder.com/600/92c952"},
+        {"albumId": 1, "id": 1, "title": "Alice1", "url": "https://user-images.githubusercontent.com/26092469/177183271-c66e4d42-c42a-432d-a600-8a045b6219b1.jpg"},
         {"albumId": 1, "id": 2, "title": "Alice2", "url": "https://via.placeholder.com/600/771796"},
         {"albumId": 2, "id": 3, "title": "Alice3", "url": "https://via.placeholder.com/600/24f355"},
         {"albumId": 3, "id": 4, "title": "Alice4", "url": "https://via.placeholder.com/600/d32776"}
