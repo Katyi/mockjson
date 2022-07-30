@@ -13,8 +13,8 @@
         {"albumId": 2, "id": 4, "title": "Animal2", "url": "https://user-images.githubusercontent.com/26092469/181903902-e5a722d1-6912-4fa0-8126-44e7a4800723.jpg"},
         {"albumId": 3, "id": 5, "title": "CitiesRussia1", "url": "https://user-images.githubusercontent.com/26092469/181903903-c787fbeb-014a-4887-91f9-bcac93cb0f6b.jpg"},
         {"albumId": 3, "id": 6, "title": "CitiesRussia2", "url": "https://user-images.githubusercontent.com/26092469/181903905-d2301882-046a-4caf-a140-1de72400ab86.jpg"},
-        {"albumId": 4, "id": 7, "title": "Harry Potter1", "https://user-images.githubusercontent.com/26092469/181903906-a3e82f83-fd31-409d-802e-4245544c139b.jpg"},
-        {"albumId": 4, "id": 8, "title": "Harry Potter2", "https://user-images.githubusercontent.com/26092469/181903907-58161947-d80a-4fdd-bf9f-762213529761.jpg"},
+        {"albumId": 4, "id": 7, "title": "Harry Potter1", "url": "https://user-images.githubusercontent.com/26092469/181903906-a3e82f83-fd31-409d-802e-4245544c139b.jpg"},
+        {"albumId": 4, "id": 8, "title": "Harry Potter2", "url": "https://user-images.githubusercontent.com/26092469/181903907-58161947-d80a-4fdd-bf9f-762213529761.jpg"},
         {"albumId": 5, "id": 9, "title": "Lighthouses1", "url": "https://user-images.githubusercontent.com/26092469/181903908-b0d628ef-ea0b-416f-bc55-8aec05b0dce3.jpg"},
         {"albumId": 5, "id": 10, "title": "Lighthouses2", "url": "https://user-images.githubusercontent.com/26092469/181903909-b9ad95e5-4bde-4310-9c14-e470d2299653.jpg"}  
     ]
