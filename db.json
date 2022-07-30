@@ -7,10 +7,13 @@
         {"id": 5, "title": "Lighthouses", "description": "Postcards on the theme Lighthouses"}
     ],
     "photos": [
-        {"albumId": 1, "id": 1, "title": "Alice1", "url": "https://user-images.githubusercontent.com/26092469/177183271-c66e4d42-c42a-432d-a600-8a045b6219b1.jpg"},
-        {"albumId": 1, "id": 2, "title": "Alice2", "url": "https://user-images.githubusercontent.com/26092469/177183276-7ea4ef74-694c-4b7d-a938-3be945671d83.jpg"},
-        {"albumId": 1, "id": 3, "title": "Alice3", "url": "https://user-images.githubusercontent.com/26092469/177183279-f3c38bb2-35b2-4fab-822f-6badb9d94a6c.jpg"},
-        {"albumId": 1, "id": 4, "title": "Alice4", "url": "https://user-images.githubusercontent.com/26092469/177183282-cad22420-f192-4805-8819-94d23e70c356.jpg"},
+        {"albumId": 1, "id": 1, "title": "Alice1", "url": "https://user-images.githubusercontent.com/26092469/181880587-92a44954-cebe-4a92-a637-174011098d66.jpg"},
+        {"albumId": 1, "id": 2, "title": "Alice2", "url": "https://user-images.githubusercontent.com/26092469/181880589-0fc5efe7-8171-4795-9099-424e27991db5.jpg"},
+        {"albumId": 1, "id": 3, "title": "Alice3", "url": "https://user-images.githubusercontent.com/26092469/181880591-4e9b6879-417f-4ede-9181-f31d301a12fe.jpg"},
+        {"albumId": 1, "id": 4, "title": "Alice4", "url": "https://user-images.githubusercontent.com/26092469/181880592-3c80f5a6-c22e-48e5-91fe-7ebae557adbd.jpg"},
+        {"albumId": 1, "id": 5, "title": "Alice4", "url": "https://user-images.githubusercontent.com/26092469/181880593-0c19a9a2-4f25-4a06-94ee-5b223f3cc526.jpg"},
+        {"albumId": 1, "id": 6, "title": "Alice4", "url": "https://user-images.githubusercontent.com/26092469/181880594-87711331-cdcf-446d-a721-0e59fa08541e.jpg"},
+        {"albumId": 1, "id": 7, "title": "Alice4", "url": "https://user-images.githubusercontent.com/26092469/181880595-b6a24bb1-61be-4302-89e7-c5c26cac78ce.jpg"},        
         {"albumId": 2, "id": 5, "title": "Animal1", "url": "https://user-images.githubusercontent.com/26092469/177184631-f5f093c9-71ec-4873-b28f-5ab11f7c1ee2.jpg"},
         {"albumId": 2, "id": 6, "title": "Animal2", "url": "https://user-images.githubusercontent.com/26092469/177184635-d10383ef-85b3-4667-ab86-963cbedd7076.jpg"},
         {"albumId": 3, "id": 7, "title": "CitiesRussiaKartinka24RU1", "url": "https://user-images.githubusercontent.com/26092469/177184759-d378ee6c-9e3b-4bd4-abc5-84812af7f055.jpg"},
