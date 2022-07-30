@@ -23,7 +23,6 @@ Images for my Project
 ![Animal11](https://user-images.githubusercontent.com/26092469/181885202-f3d7a092-d55b-49e5-9c27-aa9dc060ff43.jpg)
 ![Animal12](https://user-images.githubusercontent.com/26092469/181885203-813253b2-4853-432f-a3cf-cb3188cdddc4.jpg)
 ![Animal13](https://user-images.githubusercontent.com/26092469/181885204-f3c2c5ce-5a92-4b09-b755-de7838d99f88.jpg)
-![Animal14](https://user-images.githubusercontent.com/26092469/181885194-c51cdeae-7beb-4272-9d31-2adfc9c9bd6d.jpg)
 ![HarryPotter](https://user-images.githubusercontent.com/26092469/177184798-2ee1ac13-057a-496f-a4c9-ffb76f09a3a6.jpg)
 ![HarryPotter1](https://user-images.githubusercontent.com/26092469/177184736-8447b5db-339d-4d06-975b-47f7a047576a.jpg)
 ![HarryPotter2](https://user-images.githubusercontent.com/26092469/177184746-66206566-df9c-4334-8bc7-86428e3d9a54.jpg)
