@@ -15,30 +15,7 @@
         {"albumId": 3, "id": 6, "title": "CitiesRussia2", "url": "https://user-images.githubusercontent.com/26092469/181903905-d2301882-046a-4caf-a140-1de72400ab86.jpg"},
         {"albumId": 4, "id": 7, "title": "Harry Potter1", "https://user-images.githubusercontent.com/26092469/181903906-a3e82f83-fd31-409d-802e-4245544c139b.jpg"},
         {"albumId": 4, "id": 8, "title": "Harry Potter2", "https://user-images.githubusercontent.com/26092469/181903907-58161947-d80a-4fdd-bf9f-762213529761.jpg"},
-        
-        
-        
-        ![Alice1]()
-![Alice2]()
-![Animals1]()
-![Animals2]()
-![CityRussia1]()
-![CityRussia2]()
-![HP1]()
-![HP2]()
-![LH1](https://user-images.githubusercontent.com/26092469/181903908-b0d628ef-ea0b-416f-bc55-8aec05b0dce3.jpg)
-![LH2](https://user-images.githubusercontent.com/26092469/181903909-b9ad95e5-4bde-4310-9c14-e470d2299653.jpg)
-        
-        
-        
-        
-        
-           
-        
-        
-        {"albumId": 4, "id": 27, "title": "Harry Potter3", "url": "https://user-images.githubusercontent.com/26092469/177184798-2ee1ac13-057a-496f-a4c9-ffb76f09a3a6.jpg"},
-        {"albumId": 5, "id": 28, "title": "Lighthouses1", "url": "https://user-images.githubusercontent.com/26092469/177184748-086a817a-b333-43ba-aa38-6c5e8fdfd032.jpg"},
-        {"albumId": 5, "id": 39, "title": "Lighthouses2", "url": "https://user-images.githubusercontent.com/26092469/177184752-cf2bc345-0ae6-4bbb-b36c-e9223234356d.jpg"},
-        {"albumId": 5, "id": 30, "title": "Lighthouses3", "url": "https://user-images.githubusercontent.com/26092469/177184754-c3925b3b-54dc-44b3-b4ea-55c3d522d115.jpg"}
+        {"albumId": 5, "id": 9, "title": "Lighthouses1", "url": "https://user-images.githubusercontent.com/26092469/181903908-b0d628ef-ea0b-416f-bc55-8aec05b0dce3.jpg"},
+        {"albumId": 5, "id": 10, "title": "Lighthouses2", "url": "https://user-images.githubusercontent.com/26092469/181903909-b9ad95e5-4bde-4310-9c14-e470d2299653.jpg"}  
     ]
 }
