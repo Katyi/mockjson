@@ -33,4 +33,3 @@ Images for my Project
 ![Church1](https://user-images.githubusercontent.com/26092469/181914908-c44edbe3-1956-4baf-b9bd-a0c5f14a6167.jpg)
 ![Church2](https://user-images.githubusercontent.com/26092469/181914907-31d8edf7-29ef-46c8-b46f-16601cae45f8.jpg)
 ![FairyTales1](https://user-images.githubusercontent.com/26092469/181915026-80609e23-f0e4-47ed-9120-6c25f08d841c.jpg)
-![FairyTales2](https://user-images.githubusercontent.com/26092469/181915024-bbe55113-ae02-4143-845c-7e54b9eb24c6.jpg)
