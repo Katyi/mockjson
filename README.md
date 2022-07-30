@@ -34,7 +34,3 @@ Images for my Project
 ![Church2](https://user-images.githubusercontent.com/26092469/181914907-31d8edf7-29ef-46c8-b46f-16601cae45f8.jpg)
 ![FairyTales1](https://user-images.githubusercontent.com/26092469/181915026-80609e23-f0e4-47ed-9120-6c25f08d841c.jpg)
 ![FairyTales2](https://user-images.githubusercontent.com/26092469/181915024-bbe55113-ae02-4143-845c-7e54b9eb24c6.jpg)
-![Plants1](https://user-images.githubusercontent.com/26092469/181915095-1165d8ce-638c-47e9-a46a-2f87048171b1.jpg)
-![Plants2](https://user-images.githubusercontent.com/26092469/181915098-cda157e2-65bb-4f33-8cff-d9cf7aa66f55.jpg)
-![Books1](https://user-images.githubusercontent.com/26092469/181915223-cb4973a6-7ab7-4de7-aa33-de4acf5bb7ce.jpg)
-![Books2](https://user-images.githubusercontent.com/26092469/181915224-666b477e-ad1c-4df4-b606-bdef81ce177a.jpg)
