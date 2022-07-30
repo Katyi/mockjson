@@ -23,6 +23,7 @@ Images for my Project
 ![Animal12](https://user-images.githubusercontent.com/26092469/181885203-813253b2-4853-432f-a3cf-cb3188cdddc4.jpg)
 ![Animal13](https://user-images.githubusercontent.com/26092469/181885204-f3c2c5ce-5a92-4b09-b755-de7838d99f88.jpg)
 ![Animal14](https://user-images.githubusercontent.com/26092469/181885194-c51cdeae-7beb-4272-9d31-2adfc9c9bd6d.jpg)
+![HarryPotter](https://user-images.githubusercontent.com/26092469/177184798-2ee1ac13-057a-496f-a4c9-ffb76f09a3a6.jpg)
 ![HarryPotter1](https://user-images.githubusercontent.com/26092469/177184736-8447b5db-339d-4d06-975b-47f7a047576a.jpg)
 ![HarryPotter2](https://user-images.githubusercontent.com/26092469/177184746-66206566-df9c-4334-8bc7-86428e3d9a54.jpg)
 ![Lighthouse](https://user-images.githubusercontent.com/26092469/177184748-086a817a-b333-43ba-aa38-6c5e8fdfd032.jpg)
@@ -32,4 +33,3 @@ Images for my Project
 ![City1](https://user-images.githubusercontent.com/26092469/177184771-db3f9122-a659-46ce-b36d-2f4b425d524f.jpg)
 ![City2](https://user-images.githubusercontent.com/26092469/177184778-e5dcf3f2-a3c1-40c2-b706-8cf5adb73bdc.jpg)
 ![City3](https://user-images.githubusercontent.com/26092469/177184790-74447cf5-5ab8-4ebf-b048-896cf016835d.jpg)
-![HarryPotter](https://user-images.githubusercontent.com/26092469/177184798-2ee1ac13-057a-496f-a4c9-ffb76f09a3a6.jpg)
