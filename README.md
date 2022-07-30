@@ -1,12 +1,14 @@
 # mockjson
 To get fake data for testing (Albums)
 
-
 Images for my Project
-![Alice](https://user-images.githubusercontent.com/26092469/177183271-c66e4d42-c42a-432d-a600-8a045b6219b1.jpg)
-![Alice1](https://user-images.githubusercontent.com/26092469/177183276-7ea4ef74-694c-4b7d-a938-3be945671d83.jpg)
-![Alice2](https://user-images.githubusercontent.com/26092469/177183279-f3c38bb2-35b2-4fab-822f-6badb9d94a6c.jpg)
-![Alice3](https://user-images.githubusercontent.com/26092469/177183282-cad22420-f192-4805-8819-94d23e70c356.jpg)
+![Alice1](https://user-images.githubusercontent.com/26092469/181880587-92a44954-cebe-4a92-a637-174011098d66.jpg)
+![Alice2](https://user-images.githubusercontent.com/26092469/181880589-0fc5efe7-8171-4795-9099-424e27991db5.jpg)
+![Alice3](https://user-images.githubusercontent.com/26092469/181880591-4e9b6879-417f-4ede-9181-f31d301a12fe.jpg)
+![Alice4](https://user-images.githubusercontent.com/26092469/181880592-3c80f5a6-c22e-48e5-91fe-7ebae557adbd.jpg)
+![Alice5](https://user-images.githubusercontent.com/26092469/181880593-0c19a9a2-4f25-4a06-94ee-5b223f3cc526.jpg)
+![Alice6](https://user-images.githubusercontent.com/26092469/181880594-87711331-cdcf-446d-a721-0e59fa08541e.jpg)
+![Alice7](https://user-images.githubusercontent.com/26092469/181880595-b6a24bb1-61be-4302-89e7-c5c26cac78ce.jpg)
 ![Animal](https://user-images.githubusercontent.com/26092469/177184631-f5f093c9-71ec-4873-b28f-5ab11f7c1ee2.jpg)
 ![Animal1](https://user-images.githubusercontent.com/26092469/177184635-d10383ef-85b3-4667-ab86-963cbedd7076.jpg)
 ![HarryPotter1](https://user-images.githubusercontent.com/26092469/177184736-8447b5db-339d-4d06-975b-47f7a047576a.jpg)
