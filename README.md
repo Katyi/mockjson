@@ -5,6 +5,11 @@ Images for my Project
 
 ![Alice1](https://user-images.githubusercontent.com/26092469/181903898-84d2d68e-6439-4204-acc1-a616655dd290.jpg)
 ![Alice2](https://user-images.githubusercontent.com/26092469/181903900-28531549-da79-45ef-bf41-75655e22ef33.jpg)
+![Alice3](https://user-images.githubusercontent.com/26092469/181916139-21c4eb12-aacb-4c40-8d91-ee48e8e25ef6.jpg)
+![Alice4](https://user-images.githubusercontent.com/26092469/181916134-24230fad-7465-43d6-a87d-891a69811cdc.jpg)
+![Alice5](https://user-images.githubusercontent.com/26092469/181916135-8691527a-e8dc-4b98-9617-8bd8f4f5a9f0.jpg)
+![Alice6](https://user-images.githubusercontent.com/26092469/181916137-88bec3fa-825d-49b7-922b-8728fed8ccaa.jpg)
+![Alice7](https://user-images.githubusercontent.com/26092469/181916138-33455a86-890c-4db6-ab1e-52f8e704d676.jpg)
 ![Animals1](https://user-images.githubusercontent.com/26092469/181903901-f14676f6-8b44-4564-a24d-b97724bdf22a.jpg)
 ![Animals2](https://user-images.githubusercontent.com/26092469/181903902-e5a722d1-6912-4fa0-8126-44e7a4800723.jpg)
 ![CityRussia1](https://user-images.githubusercontent.com/26092469/181903903-c787fbeb-014a-4887-91f9-bcac93cb0f6b.jpg)
